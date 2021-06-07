@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/qq.png</file>
+        <file>images/老八.png</file>
+        <file>images/老大.png</file>
+        <file>images/老二.png</file>
+        <file>images/老九.png</file>
+        <file>images/老六.png</file>
+        <file>images/老七.png</file>
+        <file>images/老三.png</file>
+        <file>images/老四.png</file>
+        <file>images/老五.png</file>
+        <file>images/save.png</file>
+    </qresource>
+</RCC>
